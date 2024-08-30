@@ -1,2 +1,2 @@
 # Translation-Chat-Gradio-App
-Translation &amp; Chat Gradio App using Qwen LLM. amb la versió petita de 1.5billons ja sembla bon traductor
+Translation &amp; Chat Gradio App using Qwen LLM. amb la versió petita de 1.5billons ja sembla bon traductor. si hi ha cuda el backend (front des de gradio) fa servir cuda sino doncs cpu
